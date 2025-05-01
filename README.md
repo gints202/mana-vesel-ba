@@ -1,2 +1,2 @@
-# mana-vesel-ba
+# mana-veselība
 PWA lietotne asinspiedienam
